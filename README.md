@@ -1,5 +1,5 @@
 # YouTube Video Summarizer with Gemini AI
-## 5-day Gen AI Intensive Course Capstone Project
+## Gen AI Intensive Course Capstone 2025Q1
 
 This notebook demonstrates a YouTube video summarization system that leverages multiple Gen AI capabilities. The project aims to help users quickly understand the content of YouTube videos without watching them in full by generating concise, informative summaries.
 
