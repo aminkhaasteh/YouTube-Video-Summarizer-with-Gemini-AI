@@ -1,7 +1,7 @@
 # YouTube Video Summarizer with Gemini AI
 ## 5-day Gen AI Intensive Course Capstone Project
 
-This notebook demonstrates a YouTube video summarization system that leverages multiple Gen AI capabilities from Google's Vertex AI. The project aims to help users quickly understand the content of YouTube videos without watching them in full by generating concise, informative summaries.
+This notebook demonstrates a YouTube video summarization system that leverages multiple Gen AI capabilities. The project aims to help users quickly understand the content of YouTube videos without watching them in full by generating concise, informative summaries.
 
 ### Use Case
 In today's information-rich world, we often encounter interesting YouTube videos but lack the time to watch them entirely. This project addresses this problem by:
